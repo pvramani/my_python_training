@@ -25,3 +25,13 @@ git hub: https://github.com/
 # ------------
 # github client : https://git-scm.com/downloads
 ############################
+
+#   1. cd C:\python_training
+#   2. git init
+#   3. git status
+#   4. git add bin  # OR git add -A
+#   5. git add lib  # OR git add -A
+#   6. git add log  # OR git add -A
+#   7. git add programs  # OR git add -A
+#   8. git status
+#   9. git commit -m "my python training code"
