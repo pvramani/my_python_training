@@ -35,3 +35,12 @@ git hub: https://github.com/
 #   7. git add programs  # OR git add -A
 #   8. git status
 #   9. git commit -m "my python training code"
+
+#   1. link local repository with github repository
+#   git remote add origin https://github.com/mahadevaprabhug/my_python_training.git
+#
+#   2. Create Branch
+#   git branch -M my_python_code_final_branch
+#
+#   3. push to github
+#   git push -u origin my_python_code_final_branch
